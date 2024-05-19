@@ -1,0 +1,11 @@
+--2024-05-01 00:14:44--  https://dallas.tx.publicsearch.us/results?_docTypes=DT
+Resolving dallas.tx.publicsearch.us (dallas.tx.publicsearch.us)... 35.247.2.99
+Connecting to dallas.tx.publicsearch.us (dallas.tx.publicsearch.us)|35.247.2.99|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99146 (97K) [text/html]
+Saving to: ‘results?_docTypes=DT’
+
+results?_docTypes=DT                  0%[                                                                  ]       0  --.-KB/s               results?_docTypes=DT                100%[=================================================================>]  96.82K  --.-KB/s    in 0.1s    
+
+2024-05-01 00:14:45 (784 KB/s) - ‘results?_docTypes=DT’ saved [99146/99146]
+

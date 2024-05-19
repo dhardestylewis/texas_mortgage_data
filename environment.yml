@@ -1,0 +1,46 @@
+name: gpd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - seaborn
+  - dask
+  - osmnx=1.9.2
+  - shapely
+  - xlrd
+  - openpyxl
+  - esda
+  - libpysal
+  - numba
+  - pyogrio
+  - gdal
+  - pysal
+  - scikit-learn
+  - opencv
+  - fake-useragent
+  - selenium
+  - webdriver-manager
+  - pytesseract
+  - sqlite
+  - backoff
+  - sqlalchemy
+  - dask-geopandas
+  - libgdal-arrow-parquet
+  - fastparquet
+  - pyarrow
+  - datashader
+  - geopy
+  - googlemaps
+  - librosa
+  - moviepy
+  - pillow
+  - youtube-dl
+  - protobuf
+  - google-api-python-client
+  - googletrans
+  - grpcio
+  - grpcio-tools
+  - geocoder
+  - plotly
+prefix: /home/dhl/miniconda3/envs/gpd
